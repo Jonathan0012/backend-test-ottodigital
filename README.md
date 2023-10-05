@@ -43,3 +43,6 @@ b. **tasks**
     - `PUT`: Update informasi task berdasarkan `id`.
     - `DELETE`: Hapus task berdasarkan `id`.
 
+## Postman Collection
+
+> https://www.postman.com/navigation-meteorologist-32062442/workspace/public-jrs/collection/23901344-cc74823a-f9a3-46e1-b499-0b5e074d5e4a?action=share&creator=23901344
